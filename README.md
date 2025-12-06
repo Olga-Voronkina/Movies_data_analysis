@@ -21,8 +21,8 @@ Analysis of preferences of IMDB website users' regarding movies based on pandas 
 
 ## Install
 
-1. Git clone:
-   git clone https://github.com/OlgaVoronkina/imdb_movies.git
+1. Git clone
+   https://github.com/Olga-Voronkina/Movies_data_analysis
 
 2. Go to project folder:
    cd Project
